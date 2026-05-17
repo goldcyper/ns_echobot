@@ -1,3 +1,4 @@
+![Echo Bot image](https://raw.githubusercontent.com/goldcyper/ns_echobot/refs/heads/main/bot.png)
 # NationStates Echo Bot
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
