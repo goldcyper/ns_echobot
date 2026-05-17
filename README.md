@@ -22,6 +22,9 @@
 ## Quick Start Guide
 This is a quick start guide to running the bot, which is recommended to run in python or a virtual environment if on a local system
 
+Collect your Discord Developer credentials for the bot, such as the bot token and invite your bot to the server:
+[Discord Developer Guide](https://designbeep.com/2026/05/14/discord-developer-portal/)
+
 ```bash
 # Install python dependencies for project
 pip install -r requirements.txt
