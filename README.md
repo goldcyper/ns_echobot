@@ -254,6 +254,6 @@ MIT License for this project, as this was done for fun and non-commerical purpos
 - Nationstates API developers that made this all possible. Thanks to Violet and the whole team! :heartpulse:
 - Developers of the `discord.py` and the Discord API that made this all possible as well! :purple_heart:
 - [Spyglass](https://github.com/Derpseh/Spyglass) developers that gave me the idea for region update implementation in python
-- [FluffyCogs] RedBot Cog (https://github.com/zephyrkul/FluffyCogs) developers who gave me the idea for various nation and region lookups
+- [FluffyCogs(RedBot Cog)](https://github.com/zephyrkul/FluffyCogs) developers who gave me the idea for various nation and region lookups
 - To Visual Studio Code, Github, and Codex for their awesome devlopment tools that made this way less stressfull 
 - To the Lazarus region who bore the brunt of bot development woes and bug testing :green_heart:
