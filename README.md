@@ -4,7 +4,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-**What is Echo Bot?:** Nationstates Echo Bot is a Discord bot designed for the management of NationStates regions, which includes tracking of nations, wa proposals and resoluttions, nation and delegate monitoring, region history of nations, and a lot more...
+**What is Echo Bot?:** Nationstates Echo Bot is a Discord bot designed for the management of NationStates regions, which includes tracking of nations, wa proposals and resolutions, nation and delegate monitoring, region history of nations, and a lot more...
 
 [Screenshot or GIF demo here]
 
