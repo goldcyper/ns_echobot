@@ -9,7 +9,8 @@
 [Screenshot or GIF demo here]
 
 **Chapters**
-- Region Management
+- Installation & Starting Bot
+- Region Managment
 - WA Proposals and Tracking
 - Regional Security Tools
 - Nationstates Maps
