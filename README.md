@@ -10,6 +10,7 @@
 
 **Chapters**
 - [Installation & Starting Bot](https://github.com/goldcyper/ns_echobot/blob/main/README.md)
+- Setting up Proxy IP Checking & Web Server
 - Region Managment
 - WA Proposals and Tracking
 - Regional Security Tools
@@ -199,6 +200,15 @@ This processes the archvival data of daily dumps and provides an database for th
 This runs the proxy server, which helps to identity IP addresses and check if they are proxies:
 **Startup file:**
 - `start_proxy_server.py`
+
+### Setting up IP Proxy Checking & Web Server
+This is required to run the proxy checking service and live map features
+
+Getting your DNS URL
+
+This assumes that certbox is not able to be set up easily, which means using a linked url from a free dynamic DNS host.
+
+1. Collect your IP address information such as 123.456.789.10, and then register a host like [Duck DNS](https://www.duckdns.org/)
 
 ## Performance
 This project is focused for now on peformance of running its operations over effiency, though this might change as more edits are made to the project.
