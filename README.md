@@ -9,7 +9,7 @@
 [Screenshot or GIF demo here]
 
 **Chapters**
-- Installation & Starting Bot
+- [Installation & Starting Bot](https://github.com/goldcyper/ns_echobot/blob/main/README.md)
 - Region Managment
 - WA Proposals and Tracking
 - Regional Security Tools
