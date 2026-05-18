@@ -8,6 +8,15 @@
 
 [Screenshot or GIF demo here]
 
+**Chapters**
+- Region Management
+- WA Proposals and Tracking
+- Regional Security Tools
+- Nationstates Maps
+- Forum Integration
+- Discord Linking
+- IP Proxy Checking
+
 ## Why This Project?
 
 - ✅ **Region management tools:** Designed to give regions the tools to easily manage their regions through discord
